@@ -1,0 +1,12 @@
+.header-section {
+    background-color: purple;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.header-title {
+    color: white;
+    font-size: 2em;
+}

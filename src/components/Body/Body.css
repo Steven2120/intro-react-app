@@ -1,0 +1,15 @@
+.body {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
+
+.body-title {
+    font-size: 2em;
+}
+
+.kenji {
+    height: 500px;
+    width: 300px;
+}

@@ -1,0 +1,11 @@
+.footer-section {
+    background-color: red;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-title {
+    color: black;
+    font-size: 2em;
+}

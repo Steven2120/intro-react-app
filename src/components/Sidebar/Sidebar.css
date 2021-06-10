@@ -1,0 +1,17 @@
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: bisque;
+  }
+
+.ul-style {
+    list-style: none;
+}
+
+.list-style {
+    list-style: none;
+}
